@@ -1,0 +1,34 @@
+{
+  "id": "/",
+  "name": "Rhythm - Mindful Daily Momentum",
+  "short_name": "Rhythm",
+  "description": "Tactile neo-minimalist daily organizer harmonizing habits, tasks, mindful spending, and evening reflection.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1b4332",
+  "background_color": "#f8faf8",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["productivity", "lifestyle", "finance"],
+  "screenshots": []
+}

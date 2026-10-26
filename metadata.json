@@ -1,0 +1,6 @@
+{
+  "name": "Rhythm - Mindful Daily Momentum",
+  "description": "Tactile neo-minimalist daily organizer harmonizing habits, tasks, mindful spending, and evening reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
